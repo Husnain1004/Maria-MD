@@ -7,7 +7,7 @@ global.ownernumber = [ process.env.OWNER_NUMBER || "393533554014"],
 global.ownername = process.env.OWNER_NAME || "~hus/Alba",
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
-global.location = "Indian"
+global.location = "Italian"
 
 global.botname = process.env.BOTNAME || "Alexia",//name of the bot
 
